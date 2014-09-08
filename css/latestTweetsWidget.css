@@ -3,3 +3,4 @@
 .latest-tweets .tweet-pic{float:left;}
 .latest-tweets .tweet-text{margin-left:0px; margin-bottom: 0px;}
 .latest-tweets .tweet-date{margin-bottom:0;margin-left:0px;margin-top: 0px;}
+.latest-tweets .tweet-date{margin-bottom:0;}
